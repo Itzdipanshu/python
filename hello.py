@@ -529,4 +529,3 @@ def poolingDemo():
 main()
 
 '''
-print('hello')
